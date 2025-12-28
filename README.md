@@ -1,1 +1,1 @@
-Redirects to https://crystal.is-a.dev/
+Redirects to https://crstl.me/
