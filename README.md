@@ -1,1 +1,1 @@
-Redirects to https://crstl.me/
+Redirects to https://crstl.fyi/
